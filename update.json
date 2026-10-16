@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/nikkhelbarhate24-jpg/duedrive-updates/releases/download/v1.5/DueDrive.apk",
-  "notes": "• Green, yellow and red document status\n• Full-screen photos with pinch zoom and share\n• Add insurance PDFs\n• App reads dates and policy details from your documents\n• Notifications with Open and Mark renewed"
+  "versionCode": 5,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/nikkhelbarhate24-jpg/duedrive-updates/releases/download/v1.6/DueDrive.apk",
+  "notes": "• Add or update the odometer any time\n• Tap Odometer or Purchase date in Vehicle details to change it\n• Fixes"
 }
