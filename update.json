@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/nikkhelbarhate24-jpg/duedrive-updates/releases/download/v1.3/DueDrive.apk",
-  "notes": "• EV and commercial vehicles\n• Fuel type: Petrol, Diesel, CNG, EV\n• Light, Dark and System theme\n• Send feedback from the app\n• In-app updates"
+  "versionCode": 3,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/nikkhelbarhate24-jpg/duedrive-updates/releases/download/v1.4/DueDrive.apk",
+  "notes": "• Tap a vehicle for its details, tap a document for its own window\n• Scan documents with the camera\n• Policy number, company and more for each document\n• Purchase date\n• Petrol + CNG and Hybrid, CNG in kg\n• Running cost per km\n• Smoother screens"
 }
